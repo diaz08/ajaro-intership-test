@@ -1,0 +1,42 @@
+h2{
+	text-align:center; 
+	background-color:black;
+	color:white;
+}
+.link{
+	color :blue;
+	word-spacing: 1.5em;
+	text-decoration : none;
+}
+.link:hover{
+	color : red ;
+	text-decoration : none;
+}
+.link1{
+	color :blue;
+	word-spacing: 1.5em;
+	text-decoration : none;
+}
+.link1:hover{
+	color : lime ;
+	text-decoration : none;
+}
+.button{
+	background-color:lime; 
+	color:white; 
+	border:none;
+	border-radius:3px;
+}
+.button:hover{
+	background-color:red; 
+	color:white; 
+	border:none;
+	border-radius:3px;
+}
+.tambah{
+	text-align:right;
+}
+.t{
+	border: 1px solid black ;
+	border-radius: 5px ; 
+}
